@@ -1,7 +1,13 @@
 ##  Olá! Eu sou o Paulo Ricardo
 
+-  18 years
+-  Romanos 11:36
+-  Amante da Musica e de instrumentos
+-  Técnico em DS
+-  Fatecano
 -  Estudando na Fatec (Sistemas para Internet)
--  Cursando Etec (Desenvolvimentos de Sistemas e Informática para Internet) 
+-  Cursando Etec (Informática para Internet) 
+
 
 
 <div align="center">
