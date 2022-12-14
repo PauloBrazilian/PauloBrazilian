@@ -8,10 +8,8 @@
 -  18 years <br>
 -  Romanos 11:36 <br>
 -  Amante da Musica e de instrumentos <br>
--  Técnico em DS <br>
--  Fatecano <br>
--  Estudando na Fatec (Sistemas para Internet) <br>
--  Cursando Etec (Informática para Internet)  <br>
+-  Técnico em DS e Info <br>
+-  Fatecano (Sistemas para Internet) <br>
   <br>
   </div>
   
