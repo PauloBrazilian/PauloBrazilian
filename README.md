@@ -8,7 +8,7 @@
   <br>
 -  18 years <br>
 -  Romanos 11:36 <br>
--  Amante da Musica e de instrumentos <br>
+-  Amante da Musica e instrumentos <br>
 -  Técnico em DS e Info <br>
 -  Fatecano (Sistemas para Internet) <br>
   <br>
