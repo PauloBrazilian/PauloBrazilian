@@ -11,6 +11,7 @@
 -  Amante da Musica e instrumentos <br>
 -  Técnico em DS e Info <br>
 -  Fatecano (Sistemas para Internet) <br>
+-  Cursando Ingles Wisard (1/6) <br>
   <br>
   </div>
   
