@@ -15,8 +15,8 @@
       -  Romanos 11:36 <br>
       -  Amante da Musica e instrumentos <br>
       -  Técnico em DS e Info <br>
-      -  Fatecano (Sistemas para Internet) <br>
-      -  Cursando Ingles Wisard (1/6) <br>
+      -  Fatecano (Sistemas para Internet) 2/3 <br>
+      -  Wizard (Inglês) 1/6 <br>
     <br>
   </div>
 </div>
@@ -37,6 +37,7 @@
   <img align="center" alt="Paulo-Boo" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
   
+ <br>
  
 <div align="center" style="display: inline_block"> 
   <a href="https://www.instagram.com/paulo_brazilians/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
