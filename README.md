@@ -26,25 +26,25 @@
   
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PauloBrazilian&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=f2E86C1&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Ricardo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBraziliann&layout=compact&hide_border=true&title_color=2E86C1&text_color=ECFFED&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBrazilian&layout=compact&hide_border=true&title_color=2E86C1&text_color=ECFFED&bg_color=0d1117" />
 </div>
 
 
-
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>  
   
-   <div align="center" style="display: inline_block">
-    <label> Linguagens e WorkFrames </label>
-  </div><br>
+  <label>
+    <h4> Linguagens e WorkFrames </h4>
+  </label>
   
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Boo" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Paulo-C#" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Paulo-DotNET#" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
+  <img align="center" alt="Paulo-DotNET" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
   <img align="center" alt="Paulo-SQL" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> 
-</div
+</div>
+
  
  
  <br>
