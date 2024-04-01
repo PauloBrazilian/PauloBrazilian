@@ -16,7 +16,7 @@
       -  Amante da Musica e instrumentos <br>
       -  Técnico em Desenvolvimento de Sistemas e <br>
          Informática para Internet  <br>
-      -  Fatecano (Sistemas para Internet) 2/3 <br>
+      -  Fatecano (Sistemas para Internet) 3/3 <br>
       -  Wizard (Inglês) 1/6 <br>
     <br>
   </div>
