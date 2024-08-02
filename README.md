@@ -37,10 +37,6 @@
     <h4> Linguagens e FrameWorks</h4>
   </label>
   
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-Boo" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Paulo-Java" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />            
   <img align="center" alt="Paulo-Spring" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
   <img align="center" alt="Paulo-Post" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
@@ -51,9 +47,7 @@
     <h4> Aprendendo </h4>
   </label>
   
-  <img align="center" alt="Paulo-Ora" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />    
-  <img align="center" alt="Paulo-Py" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Paulo-Re" height="2%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
                 
  
 </div>
