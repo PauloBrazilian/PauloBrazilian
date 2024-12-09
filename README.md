@@ -11,13 +11,14 @@
   <div>
     <br>
     <br>
-      -  20 years <br>
+      -  21 years <br>
       -  Romanos 11:36 <br>
       -  Amante da Musica e instrumentos <br>
       -  Técnico em Desenvolvimento de Sistemas e <br>
          Informática para Internet  <br>
-      -  Fatecano (Sistemas para Internet) 3/3 <br>
-      -  Wizard (Inglês) 1/6 <br>
+      -  Tecnólogo em Sistemas para Internet <br>
+      -  Cursando Engenharia de Dados 1/3 semetres <br>
+      -  Wizard (Inglês) 3/6 <br>
     <br>
   </div>
 </div>
@@ -47,12 +48,7 @@
     <h4> Aprendendo </h4>
   </label>
   
-
-                
- 
 </div>
- 
-
  
  <br>
   <br>
