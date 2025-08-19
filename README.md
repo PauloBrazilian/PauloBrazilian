@@ -17,7 +17,7 @@
       -  Técnico em Desenvolvimento de Sistemas e <br>
          Informática para Internet  <br>
       -  Tecnólogo em Sistemas para Internet <br>
-      -  Cursando Engenharia de Dados 1/3 semetres <br>
+      -  Cursando Engenharia de Software 1/3 <br>
       -  Wizard (Inglês) 3/6 <br>
     <br>
   </div>
